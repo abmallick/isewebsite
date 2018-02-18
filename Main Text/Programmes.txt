@@ -1,0 +1,6 @@
+//this is a table with merged columns first and third  rows, can be implemented using nth child property
+
+Under Graduate
+B.E. Information Science and Engineering	4 years    //col-lg and col-sm can be used here
+Post Graduate
+Cyber Forensic and Information Security		2 years

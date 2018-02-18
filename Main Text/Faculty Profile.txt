@@ -1,0 +1,114 @@
+2-col 4-row table
+
+Designation		Number
+Professors		02
+Associate Professors	03
+Assistant Professors	11
+
+Title- HOD
+
+Faculty Name: Dr. R Aparna
+Designation: Professor & Head
+Email: raparna@sit.ac.in
+ContactNo& 9480408455          //Mostly a typo
+Qualification: M.S. (S/W Systems) Ph.D.
+
+Title- Professors
+
+
+Faculty Name: Dr. H S Jayanna
+Designation: Professor
+Email: jayannahs@sit.ac.in
+ContactNo& 0816-2214064
+Qualification: M.E., Ph.D. (IIT, Guwahati)
+
+Title- Associate Professors
+
+Faculty Name: Dr. M S Rudramurthy
+Designation: Associate Professor
+Email: rudrams@sit.ac.in
+ContactNo& 0816-2214064
+Qualification: M.Tech.,Ph.D.(JNTU, Hyderabad)
+
+Faculty Name: Dr. Purohit Srinivasacharya
+Designation: Associate Professor
+Email: purohit@sit.ac.in
+ContactNo -
+Qualification: M.Tech.,Ph.D.
+
+Faculty Name: Dr. H Kavitha
+Designation: Associate Professor
+Email: hkavitha@sit.ac.in
+ContactNo -
+Qualification: M.Tech.,Ph.D.
+
+Title- Assistant Professors
+
+Faculty Name: Dr. G Jagadambha
+Designation: Assistant Professor
+Email: jagadamba@sit.ac.in
+ContactNo -
+Qualification: M.Tech.,Ph.D
+
+Faculty Name: Nagarathna B Chittaragi
+Designation: Assistant Professor
+Email: chittaragi@sit.ac.in
+ContactNo -
+Qualification: M.Tech.,(pursuing Ph.D at NITK, Surathkal)
+
+Faculty Name: B Sathisha
+Designation: Assistant Professor
+Email: sathishb@sit.ac.in
+ContactNo -
+Qualification: M.Tech.,(pursuing Ph.D IIT, Guwahati)
+
+Faculty Name: S P Sharmila
+Designation: Assistant Professor
+Email: sharmila@sit.ac.in
+ContactNo -
+Qualification: M.Tech.
+
+Faculty Name: S Sharath Kumar
+Designation: Assistant Professor
+Email: skumars@sit.ac.in
+ContactNo -
+Qualification: M.Tech.
+
+Faculty Name: Hemavathi
+Designation: Assistant Professor
+Email: hema@sit.ac.in
+ContactNo -
+Qualification: M.Tech.
+
+Faculty Name: S Ramu
+Designation: Assistant Professor
+Email: ramu@sit.ac.in
+ContactNo -
+Qualification: M.Tech.
+
+Faculty Name: Keerthan Kumar T G
+Designation: Assistant Professor
+Email: keerthanSwamy@gmail.com
+ContactNo -
+Qualification: M.Tech.
+
+Faculty Name: Shubha C
+Designation: Assistant Professor
+Email: shubhasea@gmail.com
+ContactNo -
+Qualification: M.Tech.
+
+Faculty Name: Sushma S.A
+Designation: Assistant Professor
+Email: sushmasa@sit.ac.in ,sushmasa.sit@gmail.com
+ContactNo 91 9449087574
+Qualification: M.Tech.
+
+Faculty Name: Madhuri B
+Designation: Assistant Professor
+Email: madhurinaveen7@gmail.com
+ContactNo +91 95382 22895
+Qualification: M.Tech.
+
+
+

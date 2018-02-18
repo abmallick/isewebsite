@@ -1,0 +1,13 @@
+3 row 3 col table
+
+Staff Name	Qualification	Expertise
+Renukamba
+Operator
+renukamba@sit.ac.in
+0816-2214077	D.C.Sc. & Eng.	MS Office, Dbase, C, Cobol
+B P Ganesh
+Operator
+ganesh@sit.ac.in
+0816-2214077	D.C.Sc. & Eng.	MS Office, Dbase, C, Cobol
+D S Rajanna
+Attender

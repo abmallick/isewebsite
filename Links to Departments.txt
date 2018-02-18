@@ -1,0 +1,20 @@
+http://sit.ac.in/department/arc/arch.html
+http://biotechnologysit.com/
+http://sit.ac.in/department/nano/nano.html -Center of ART
+http://sit.ac.in/department/che/chemical.html
+http://sit.ac.in/department/civ/civil.html
+http://sit.ac.in/department/cse/cse.html
+http://sit.ac.in/department/ece/electronics.html
+http://sit.ac.in/department/eee/electrical.html
+http://sit.ac.in/department/ite/instrumentation.html
+http://sit.ac.in/department/iem/iem.html
+http://sit.ac.in/department/mec/mechanical.html
+http://sit.ac.in/department/tce/telecom.html
+http://sit.ac.in/department/mba/mba.html
+http://sit.ac.in/department/mca/mca.html
+http://sit.ac.in/department/chemistry/chemistry.html
+http://sit.ac.in/department/maths/maths.html
+http://sit.ac.in/department/phy/physics.html
+http://sit.ac.in/department/lib/lib.html
+http://sit.ac.in/department/placement/placement.html
+http://sit.ac.in/department/phyedu/phyedu.html

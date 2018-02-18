@@ -1,0 +1,2 @@
+1. Carousel with fade:https://codepen.io/Rowno/pen/Afykb
+2. Basic Code:https://getbootstrap.com/docs/4.0/examples/

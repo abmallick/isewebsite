@@ -1,0 +1,19 @@
+3- col 4- row col
+
+Name of the laboratory			Photo		Major equipments available
+
+Vasudha Computer Laboratory                          Pentium Systems Lenova with moniter–– 70 Nos.
+						     LCD Projectors––– 02 Nos
+						     5 K.V. UPS––– 06 Nos.
+						     Laser Printers––– 02 Nos.
+
+Panini Research Center				     Pentium Systems Lenova with moniter–– 10 Nos.
+						     HP Pro 3090 –– 10 Nos.
+						     Laser Printers––– 01 Nos.
+
+Kautilya Computer Center			     Pentium Systems Lenova with moniter–– 20 Nos.
+						     µP accesories –– 10 Nos.
+                                                     Single chep Microcontrollers––– 10 Nos.
+
+
+

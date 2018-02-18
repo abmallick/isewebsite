@@ -1,0 +1,33 @@
+This Department started functioning in the year 1999 with an intake of 60, offering bachelor degree in Information Science and Engineering.
+
+Department comprises of highly qualified and experienced teaching staff and research scholars, who are committed to excellence and always striving to bring out creativity and innovative methods in teaching.
+
+Department also has experienced technical staff who help the students in understanding the latest technical aspects in a much simpler format. Department is consistently conducting activities like
+workshops, guest lectures, seminars for the purpose of knowledge up gradation of both staff and students. These activities also include exposure to cutting edge technologies which keeps our students in touch with latest developments in the field of Information Technology.(Here there were 2 paragraphs buth i think it was a design flaw)
+
+Department has well equipped laboratories housing state of the art equipments including computer systems with latest configurations, which are completely networked and latest software's for applications and development areas.
+
+
+Title-Mission
+
+To provide education of excellent quality to facilitate all learners to develop their full potential as individuals by imparting a clear knowledge of the fundamentals and applied aspects of Information Science and Engineering to make them acceptable to Industries, higher Institutions of learning and society.
+
+Title-Short Range Goals
+
+//Unordered List
+
+To improve student - faculty relationship by counseling and interaction.
+To keep an eye towards the improvement of	academic performance of students and faculty every year.
+To arrange special lectures from experts.
+To concentrate on other technical activities such as hobby projects, paper presentation etc., to strengthen the technical skills of students.
+To conduct mock written test, group discussion and interviews to enhance the performance of students for campus selection
+To equip the department to meet the needs of surrounding industries.
+
+Title-Long Range Goals
+
+To create a research base of information desk.
+To develop expertise and facilities for conducting training programmes for people from industries and other institutions.
+
+Side Topic-Students Achievements   //Use Card to Implement this
+
+Congratulations to Akash Kumar Srivastava for securing second position in Paper presentation (National level technical symposium) and getting award for the best participant award by MICROCHIP.
